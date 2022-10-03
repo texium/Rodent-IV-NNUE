@@ -38,3 +38,8 @@ If You add something to Rodent IV, keep in mind the following:
 9. Please don't remove quirks and features. They make Rodent what it is.
 
 10. Enjoy. Rodent is meant to be fun.
+
+#NNUE
+The contained file must remain as named to work due to the composition of Rodent. Also, rodent must remain in the exe folder.
+
+I should release different versions with various nets included, such as: A net trained on GM games, White Rose, Night Nurse, and more.
