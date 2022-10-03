@@ -39,7 +39,7 @@ If You add something to Rodent IV, keep in mind the following:
 
 10. Enjoy. Rodent is meant to be fun.
 
-#NNUE
+NNUE
 The contained file must remain as named to work due to the composition of Rodent. Also, rodent must remain in the exe folder.
 
 I should release different versions with various nets included, such as: A net trained on GM games, White Rose, Night Nurse, and more.
